@@ -1,0 +1,16 @@
+/* body {
+    /* background-color:  rgb(147 197 253);Black background color */
+    /* background-image: linear-gradient(to top, var(--tw-gradient-stops));
+    color: #fff; Text color for better contrast */
+  /* } */ */
+
+.gradient-background{
+  /* background: linear-gradient(to right, #ff4d4d 20%, #000, #00ffff 80%);  */
+}
+
+body{
+  background: linear-gradient(to right,  #ff4d4d -42%, #000 44%, #00ffff 267%)
+ }
+  
+ 
+  
