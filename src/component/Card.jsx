@@ -11,7 +11,7 @@ const card = () => {
   const cars = [
     {
       id: 1,
-      name: 'Toyota Corolla',
+      name: 'Toyota Corolla EA',
       image: car1,
       price: '$50/day',
       features: ['Automatic Transmission', 'Air Conditioning', 'Seats 5']
